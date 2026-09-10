@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Flutter+%26+Mobile+Engineer;NestJS+%7C+Node.js+%7C+TypeScript;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+[Portfolio](https://portfolio-six-eta-cis5hz8v3g.vercel.app/)
+
 <a href="https://www.linkedin.com/in/gustavosperandio/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -26,31 +28,6 @@ I'm a **Full Stack & Mobile Developer** based in Curitiba, Brazil 🇧🇷, pass
 - 🌱 Always exploring better architecture patterns and clean code principles
 - ⚡ I love bridging the gap between great UX and solid engineering
 - 📫 Reach me at **gustavo.sperandio25@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7f53ff?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-dc382c?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-141414?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
